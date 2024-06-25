@@ -29,6 +29,7 @@ accessing and manipulating this array.
 
 Near the top of `indexTest.js` you will see the following:
 
+
 ```js
 beforeEach(function () {
   cats.length = 0;

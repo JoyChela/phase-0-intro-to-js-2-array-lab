@@ -38,14 +38,4 @@ function removeFirstCat() {
   return newCats;
 }
 
-module.exports = {
-  cats,
-  destructivelyAppendCat,
-  destructivelyPrependCat,
-  destructivelyRemoveLastCat,
-  destructivelyRemoveFirstCat,
-  appendCat,
-  prependCat,
-  removeLastCat,
-  removeFirstCat
-};
+

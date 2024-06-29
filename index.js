@@ -1,4 +1,5 @@
 
+
 let cats = ["Milo", "Otis", "Garfield"];
 
 function destructivelyAppendCat(Ralph) {
